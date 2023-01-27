@@ -95,16 +95,16 @@ Here are some ideas to get you started:
   </p>
   <br>
 
-<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=dark&count_private=true" alt="SumitUjjwal" /></a> </p>
+<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=light&count_private=true" alt="SumitUjjwal" /></a> </p>
 
 <table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" alt="alexfp05405" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" alt="SumitUjjwal" /></td>
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=react-dark&custom_title=SumitUjjwal%20's%20contribution%20Graph&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=react-light&custom_title=SumitUjjwal%20's%20contribution%20Graph&hide_border=true" />
 
 
 
