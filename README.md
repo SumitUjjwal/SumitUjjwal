@@ -25,7 +25,7 @@
 
 <!-- about -->
 <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
- <br/>
+
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
   
 - 🌱 I like to improve myself better than tomorrow.  
@@ -63,7 +63,7 @@
 <hr>
 
 <h3><i>🏆 GitHub Trophies:</i></h3>
-<p align="right"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
+<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
 <hr>
 <table>
   <tr>
