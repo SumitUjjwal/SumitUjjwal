@@ -78,7 +78,7 @@
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=vue" width="150%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=vue&bg_color=ffffff&color=586E75&line=40C463&point=586E75&hide_border=false&area=true&custom_title=SumitUjjwal%20's%20contribution%20Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=vue&bg_color=ffffff&color=586E75&line=40C463&point=586E75&hide_border=false&area=true&title_color=586E75&custom_title=SumitUjjwal%20's%20contribution%20Graph" />
 
 <!-- 
 ## 🌐 Socials
