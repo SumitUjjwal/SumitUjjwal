@@ -71,7 +71,7 @@
 
 <!-- github stats -->
 <h3><i>📊 GitHub Statistics:</i></h3>
-<table border="none">
+<table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true" alt="SumitUjjwal" /></td>
