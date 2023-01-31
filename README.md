@@ -12,6 +12,15 @@
 </div>
 <hr> -->
 
+<!-- profile -->
+<div align="center">
+<img src="https://i.imgur.com/j0uNCGy.gif" align="center" width="250"/>
+<img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
+<h1 align="center">Hi 👋, I'm Sumit Ujjwal</h1>
+<h3 align="center" >A passionate full stack developer from India</h3>
+</div>
+<hr>
+
 <!-- social media -->
 <h3><i>🌐 Connect with me:</i></h3>
 <p align="center">
