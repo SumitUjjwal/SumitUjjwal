@@ -1,24 +1,5 @@
 
-<!--### Hi there 👋
 
-
-**SumitUjjwal/SumitUjjwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-/---------------------------------------------------------------------------------------------------------------------/-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitUjjwal&label=Profile%20views&color=0e75b6&style=flat" alt="SumitUjjwal" /> </p>
  <div id="header" align="center" >
@@ -50,11 +31,7 @@ Here are some ideas to get you started:
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 
-
-
-### <div align="left">Here are a few pointers listed below that best describe me. </div>  
-  
-
+ ## <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
   
 
@@ -69,7 +46,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
 ---
- <h3><i>Tech Stacks I have worked with :</i></h3>
+ <h3><i>💻 Tech Stacks I have worked with:</i></h3>
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -88,15 +65,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="github" />
- <!--
-    <img
-      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-      alt="styled-components" />
--->
+ <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+      alt="netlify" />
+ <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
+
   </p>
   <br>
+  
+   <h3><i>🏆 GitHub Trophies:</i></h3>
 
-<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=dark&count_private=true" alt="SumitUjjwal" /></a> </p>
+<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
 
 <table>
   <tr>
