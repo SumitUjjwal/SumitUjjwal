@@ -64,13 +64,17 @@
 </p>
 <hr>
 
+<!-- github tropies -->
 <h3><i>🏆 GitHub Trophies:</i></h3>
 <p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
 <hr>
+
+<!-- github stats -->
+<h3><i>📊 GitHub Statistics:</i></h3>
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" alt="SumitUjjwal" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true" alt="SumitUjjwal" /></td>
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=2077" width="100%" />
