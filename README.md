@@ -13,7 +13,8 @@
 
 <!-- <h3 align="center" >A passionate full stack developer from India</h3> -->
 
-##  🌐 Connect with me
+
+<h3><i>🌐 Connect with me:</i></h3>
 <!-- <p align="left"> -->
   <!--
 <a href="mailto:sumitonboard@gmail.com" style="text-decoration:none">
@@ -31,7 +32,7 @@
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 
-## <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
+<h3><i>Here are a few pointers listed below that best describe me:</i></h3>
  <br/>
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
   
