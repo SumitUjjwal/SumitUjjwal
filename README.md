@@ -10,21 +10,9 @@
   <h1 align="center">Hi 👋, I'm Sumit Ujjwal</h1>
   <h3 align="center" >A passionate full stack developer from India</h3>
 </div>
-
-<!-- <h3 align="center" >A passionate full stack developer from India</h3> -->
-
+<hr>
 
 <h3><i>🌐 Connect with me:</i></h3>
-<hr>
-<!-- <p align="left"> -->
-  <!--
-<a href="mailto:sumitonboard@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- <a href="https://github.com/SumitUjjwal" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
--->
 <a href="https://www.linkedin.com/in/sumitujjwal" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -32,6 +20,7 @@
  <a href="https://sumitujjwal.github.io/" target="text-decoration:none">
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
+<hr>
 
 <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
  <br/>
@@ -44,8 +33,8 @@
 - 💬 Ask me about Javascript, HTML, CSS, Node.js, Npm, Express.js, MongoDB
   
 - ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
+<hr>
 
----
  <h3><i>💻 Tech Stacks I have worked with:</i></h3>
 
   <p>
@@ -71,11 +60,11 @@
 
   </p>
   <br>
-  
+  <hr>
    <h3><i>🏆 GitHub Trophies:</i></h3>
 
 <p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
-
+<hr>
 <table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=algolia&count_private=true" /></td>
