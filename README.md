@@ -15,7 +15,7 @@
 
 
 <h3><i>🌐 Connect with me:</i></h3>
-<hr>
+<hr height="1px">
 <!-- <p align="left"> -->
   <!--
 <a href="mailto:sumitonboard@gmail.com" style="text-decoration:none">
