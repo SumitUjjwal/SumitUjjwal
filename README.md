@@ -1,7 +1,7 @@
 
 <!-- views counter -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitUjjwal&label=Profile%20views&color=0e75b6&style=flat" alt="SumitUjjwal" /> </p> -->
-[![](https://komarev.com/ghpvc/?username=SumitUjjwal&label=Profile%20views&color=0e75b6&style=flat)]
+![](https://komarev.com/ghpvc/?username=SumitUjjwal&label=Profile%20views&color=0e75b6&style=flat)
 <!-- profile -->
  <div id="header" align="center" >
  <img src="https://i.imgur.com/j0uNCGy.gif" align="center" width="250" />
