@@ -77,7 +77,7 @@
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true" alt="SumitUjjwal" /></td>
   </tr>
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=default&hide_border=true" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=github" width="100%" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&bg_color=ffffff&color=586E75&line=586E75&point=586E75&custom_title=SumitUjjwal%20's%20contribution%20Graph&hide_border=true" />
 
 <!-- 
