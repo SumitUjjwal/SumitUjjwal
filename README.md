@@ -8,7 +8,7 @@
   <br/>
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
   <h3 align="center">Hi 👋, I'm Sumit Ujjwal</h3>
-  <h3 align="center" >A passionate full stack developer from India</h3>
+  <h4 align="center" >A passionate full stack developer from India</h4>
 </div>
 <hr>
 
