@@ -4,7 +4,7 @@
 
 <!-- profile -->
  <div id="header" align="center" >
- <img src="https://i.imgur.com/j0uNCGy.gif" align="center" width="250" /><span fontsize=20>I'm Sumit Ujjwal</span>
+ <img src="https://i.imgur.com/j0uNCGy.gif" align="center" width="250" />
  <br/>
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
   <h1 align="center">Hi 👋, I'm Sumit Ujjwal</h1>
@@ -32,7 +32,7 @@
 </a>
 
 ## <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
-
+ <br/>
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
   
 - 🌱 I like to improve myself better than tomorrow.  
