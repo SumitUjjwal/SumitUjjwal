@@ -78,7 +78,7 @@
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=default" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=default&custom_title=SumitUjjwal%20's%20contribution%20Graph&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=github&custom_title=SumitUjjwal%20's%20contribution%20Graph&hide_border=true" />
 
 <!-- 
 ## 🌐 Socials
