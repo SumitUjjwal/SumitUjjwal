@@ -26,7 +26,7 @@
 <hr>
 
 <!-- about -->
-<h3><i>Here are a few pointers listed below that best describe me:</i></h3>
+<h3><i><img src="./assets/programmer.png" alt="profile" />Here are a few pointers listed below that best describe me:</i></h3>
 
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
   
