@@ -12,6 +12,7 @@
 </div>
 <hr>
 
+<!-- social media -->
 <h3><i>🌐 Connect with me:</i></h3>
 <a href="https://www.linkedin.com/in/sumitujjwal" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,6 +23,7 @@
 </a>
 <hr>
 
+<!-- about -->
 <h3><i>Here are a few pointers listed below that best describe me:</i></h3>
  <br/>
 - 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
@@ -35,35 +37,33 @@
 - ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
 <hr>
 
- <h3><i>💻 Tech Stacks I have worked with:</i></h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+<!-- tech stacks -->
+<h3><i>💻 Tech Stacks I have worked with:</i></h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
       alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
       alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
       alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="github" />
- <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
       alt="netlify" />
- <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
+</p>
+<hr>
 
-  </p>
-  <br>
-  <hr>
-   <h3><i>🏆 GitHub Trophies:</i></h3>
-
-<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
+<h3><i>🏆 GitHub Trophies:</i></h3>
+<p align="right"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
 <hr>
 <table>
   <tr>
