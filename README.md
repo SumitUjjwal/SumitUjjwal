@@ -73,8 +73,8 @@
 <h3><i>📊 GitHub Statistics:</i></h3>
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="SumitUjjwal" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="SumitUjjwal" /></td>
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=vue" width="150%" />
