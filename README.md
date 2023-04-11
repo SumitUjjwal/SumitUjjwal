@@ -4,10 +4,10 @@
 
 <!-- profile -->
 <div align="center">
-  <img src="https://i.imgur.com/j0uNCGy.gif" align="center" width="250"/>
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="250"/>
   <br/>
   <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
-  <h3 align="center">Hi 👋, I'm Sumit Ujjwal</h3>
+  <h2 align="center">Hi 👋, I'm Sumit Ujjwal</h2>
   <h4 align="center" >A passionate full stack developer from India</h4>
 </div>
 <hr>
@@ -61,6 +61,10 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
       alt="netlify" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+  <img src="https://img.shields.io/badge/Render-44DCB1?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
+  <img src="https://img.shields.io/badge/aws-EC7211?style=for-the-badge&logo=amazon&logoColor=white" alt="aws"/>
+  <img src="image" alt="name"/>
 </p>
 <hr>
 
