@@ -1,113 +1,116 @@
+<h1 align="left">Sumit Ujjwal</h1>
 
-<!-- views counter -->
-![](https://komarev.com/ghpvc/?username=SumitUjjwal&label=Profile%20views&color=0e75b6&style=flat)
+<p><strong>Senior Backend Developer · .NET · AWS · MySQL · Production Systems</strong></p>
 
-<!-- profile -->
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="250"/>
-  <br/>
-  <img src="https://camo.githubusercontent.com/a95675981075a50a247b52407b109d3a647faba3c9100abbd113a03eb5cb332e/68747470733a2f2f692e6962622e636f2f52515a337a53352f72656d6f76616c2d61692d746d702d363334393235353533616533622d312d312e6a7067" width="100"/>
-  <h2 align="center">Hi 👋, I'm Sumit Ujjwal</h2>
-  <h4 align="center" >A passionate full stack developer from India</h4>
-</div>
-<hr>
+<p>Building backend systems that are maintainable, observable, and reliable in production.</p>
 
-<!-- social media -->
-<h3><i>🌐 Connect with me:</i></h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sumitujjwal" style="text-decoration:none" >
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
- <a href="https://sumitujjwal.github.io/" target="text-decoration:none">
-   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
+<p>
+  <a href="https://github.com/SumitUjjwal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumitujjwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://sumitujjwal.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
 </p>
-<hr>
 
-<!-- about -->
-<h3><i>👨‍💻 Here are a few pointers listed below that best describe me:</i></h3>
-
-- 💭 I let my imagination run wild, which allows me to be very creative in what I do.  
-  
-- 🌱 I like to improve myself better than tomorrow.  
-  
-- 👨‍👧‍👦 I am a good team player. I enjoy working in a team environment, and I get along well with people very well.
-  
-- 💬 Ask me about Javascript, HTML, CSS, Node.js, Npm, Express.js, MongoDB
-  
-- ⚡ Fun fact: "Take an idea and work on it" that's what I believe.  
-<hr>
-
-<!-- tech stacks -->
-<h3><i>💻 Tech Stacks I have worked with:</i></h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="javascript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-      alt="expressjs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-      alt="postman" />
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="github" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-      alt="netlify" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
-  <img src="https://img.shields.io/badge/Render-44DCB1?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
-  <img src="https://img.shields.io/badge/aws-EC7211?style=for-the-badge&logo=amazon&logoColor=white" alt="aws"/>
-  <img src="image" alt="name"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&vCenter=true&width=640&lines=Backend+APIs+%26+service+integrations;Database+performance+%26+reliability;AWS+infrastructure+%26+delivery+workflows;Observability%2C+debugging+%26+operability" alt="Backend APIs, database performance, AWS delivery, and observability" />
 </p>
-<hr>
 
-<!-- github tropies -->
-<h3><i>🏆 GitHub Trophies:</i></h3>
-<p align="center"> <a href="https://github.com/SumitUjjwal"><img src="https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="SumitUjjwal" /></a> </p>
-<hr>
-
-<!-- github stats -->
-<h3><i>📊 GitHub Statistics:</i></h3>
-<table>
-  <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=SumitUjjwal&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="SumitUjjwal" /></td>
-  </tr>
-</table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitUjjwal&theme=vue" width="150%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=SumitUjjwal&theme=vue&bg_color=ffffff&color=586E75&line=40C463&point=586E75&hide_border=false&area=true&title_color=586E75&custom_title=SumitUjjwal%20's%20contribution%20Graph" />
-
-<!-- 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitujjwal)
-
-# 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SumitUjjwal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SumitUjjwal&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitUjjwal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SumitUjjwal&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[About](#about) · [Engineering Focus](#engineering-focus) · [Technical Stack](#technical-stack) · [How I Work](#how-i-work) · [Connect](#connect)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SumitUjjwal&icon=5&color=12)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build and maintain backend APIs and production services, with a primary focus on **C#/.NET, MySQL, and AWS**. My work spans service integrations, scheduled and background processing, database performance, deployment workflows, monitoring, and production troubleshooting.
+
+I care about the parts of backend engineering that make systems dependable after deployment: clear service boundaries, predictable failure handling, useful telemetry, safe schema changes, and releases that can be diagnosed and rolled back when needed.
+
+## Engineering Focus
+
+### Backend APIs and Integrations
+
+Designing and maintaining API workflows, integrating external services, and supporting application features that depend on reliable backend behavior.
+
+### Database Performance and Reliability
+
+Investigating slow queries and execution plans, reviewing indexes and schema changes, and troubleshooting connection-pooling and database connectivity issues.
+
+### AWS and Delivery Workflows
+
+Working with AWS application infrastructure and delivery tooling, including EC2, RDS, S3, CloudWatch, load balancing, Auto Scaling, and CI/CD pipelines.
+
+### Background Processing and Operations
+
+Building scheduled processing and notification workflows, and using logs, metrics, and incident investigation to understand failures and improve operability.
+
+## Technical Stack
+
+**Backend Development**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
+
+**Databases and Caching**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud and Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+
+**DevOps and Delivery**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Background Processing and Observability**
+
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-3C3C3C?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase_Admin_SDK-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+<details>
+  <summary><strong>Additional tools and languages</strong></summary>
+  <br />
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</details>
+
+## How I Work
+
+- **Design for maintainability:** keep responsibilities clear and code changes understandable.
+- **Debug with evidence:** use logs, metrics, execution plans, and reproducible symptoms instead of guesswork.
+- **Treat delivery as part of engineering:** consider configuration, deployment behavior, health checks, and rollback paths alongside application code.
+- **Make reliability observable:** prefer actionable telemetry and alerts that help narrow down the cause of a problem.
+
+## Connect
+
+I’m happy to connect about backend engineering, .NET, AWS, database reliability, service integrations, and production operations.
+
+<p>
+  <a href="https://www.linkedin.com/in/sumitujjwal">LinkedIn</a> ·
+  <a href="https://sumitujjwal.github.io/">Portfolio</a> ·
+  <a href="https://github.com/SumitUjjwal">GitHub</a>
+</p>
